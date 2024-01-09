@@ -1,4 +1,4 @@
-﻿# 9-hafta-ici-filmsitesi
+﻿# film sitesi
 
 - Html ve Css kullanıldı
 
